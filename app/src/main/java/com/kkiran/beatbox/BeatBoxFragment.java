@@ -49,11 +49,12 @@ public class BeatBoxFragment extends Fragment {
 
         @Override
         public void onBindViewHolder(SoundHolder soundHolder, int position) {
-
+            //TODO: Add bind holder
         }
 
         @Override
         public int getItemCount() {
+            //return actual count
             return 0;
         }
     }
